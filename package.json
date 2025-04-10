@@ -1,0 +1,10 @@
+{
+  "open:cypress": "cypress open",
+  "name": "cypress-express-mark",
+  "packageManager": "yarn@4.2.2",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.41.0",
+    "allure-commandline": "^2.33.0",
+    "cypress": "^14.1.0"
+  }
+}
